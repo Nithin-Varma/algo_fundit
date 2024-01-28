@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.6.1
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: mnithin1422@gmail.com
+author_name: Nithin-Varma
+cloud_provider: none
+contract_name: fundit
+deployment_language: python
+ide_jetbrains: false
+ide_vscode: true
+preset_name: starter
+project_name: fundit
+python_linter: none
+use_dispenser: false
+use_github_actions: true
+use_python_black: true
+use_python_mypy: false
+use_python_pip_audit: true
+use_python_pytest: true
+use_typescript_jest: false
+
